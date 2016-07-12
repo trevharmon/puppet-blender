@@ -1,0 +1,15 @@
+{
+  "name": "trevharmon-blender",
+  "version": "0.1.0",
+  "author": "trevharmon",
+  "summary": "Install and manage a Blender installation",
+  "license": "Apache-2.0",
+  "source": "git@github.com:trevharmon/puppet-blender.git",
+  "project_page": "git@github.com:trevharmon/puppet-blender.git",
+  "issues_url": "https://github.com/trevharmon/puppet-blender/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
